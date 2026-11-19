@@ -21,4 +21,4 @@ A one-page summary of the world's news of **Thursday 19 November 2026**, built b
 
 `main.ts` copies the pre-rendered image (`entry.png`, JPEG bytes) to the output directory. No network, no randomness — every run writes the same bytes.
 
-Sources: Palm Beach Post, The Hindu BusinessLine, Jagran Josh, AP, Reuters, The Hindu, Disclosure News, Financial Times (see the research brief in the build log).
+Sources: Palm Beach Post, The Hindu BusinessLine, Jagran Josh, AP, Reuters, The Hindu, Disclosure News, Financial Times.
